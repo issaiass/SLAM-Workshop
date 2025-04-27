@@ -411,25 +411,6 @@ Finally we managed to do 2 packages, one for mapping (used slam_toolbox for make
     ros2 run nav2_map_server map_saver_cli -f <map_name_without_extension>
 ```
 
-
-- On terminal 2
-```sh
-    ros2 run teleop_twist_keyboard teleop_twist_keyboard
-```
-
-- Navigate with the keys to construct the map (see rviz how is going)
-
-- When you are satisfied with the contruscted map input the following commands on a new terminal to save the map.
-```sh
-    ros2 run nav2_map_server map_saver_cli -f 
-    module_7_assignment/mapping/map/corridor
-```
-
-- On terminal 3, optionally load and visualize the map
-```sh
-    ros2 launch mapping map_loading_2d.launch.py map:=corridor.yaml
-```
-
 </details>
 
 <details open>
