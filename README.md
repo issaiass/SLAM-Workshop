@@ -8,11 +8,11 @@
 The slam workshop is at is, a 2 day intensive workshop on slam for building a robot from the scratch (simulation)
 
 
-<div align="center">
-<video width="640" height="480" controls loop>
-<source src="doc/vids/slam.mp4" type="video/mp4">
-</video>
-</div>
+<p align="center">
+  <a href="https://youtu.be/MD3zMs2fdms">
+    <img src="https://img.youtube.com/vi/MD3zMs2fdms/0.jpg" alt="Yet Another SLAM (only) video">
+  </a>
+</p>
 
 <details open>
 <summary> <b>Brief Review<b></summary>
@@ -295,11 +295,12 @@ Created an URDF file and test the robot in rviz2
 
 We create two robots, one based on the [Mobile URDF Maker](https://github.com/ali-pahlevani/Mobile_Robot_URDF_Maker.git) by [Ali Pahlevani](https://www.linkedin.com/in/ali-pahlevani/), and other urdf based on a differential drive robot from the scratch using [this repository](https://github.com/gurselturkeri/ros2_diff_drive_robot).
 
-<div align="center">
-<video width="640" height="480" controls loop>
-<source src="doc/vids/rviz2.mp4" type="video/mp4">
-</video>
-</div>
+<p align="center">
+  <a href="https://youtu.be/lU3LZ-DG9BI">
+    <img src="https://img.youtube.com/vi/lU3LZ-DG9BI/0.jpg" alt="Robot Visualization">
+  </a>
+</p>
+
 
 </details>
 
@@ -309,11 +310,12 @@ We create two robots, one based on the [Mobile URDF Maker](https://github.com/al
 
 Later we also defined a gazebo enviroment and spawned the robot for testing purposes.
 
-<div align="center">
-<video width="640" height="480" controls loop>
-<source src="doc/vids/gazebo.mp4" type="video/mp4">
-</video>
-</div>
+<p align="center">
+  <a href="https://youtu.be/GQTNtaFTQhc">
+    <img src="https://img.youtube.com/vi/GQTNtaFTQhc/0.jpg" alt="Robot Simulation">
+  </a>
+</p>
+
 
 </details>
 
@@ -323,11 +325,11 @@ Later we also defined a gazebo enviroment and spawned the robot for testing purp
 Finally we managed to do 2 packages, one for mapping (used slam_toolbox for make the robot map the environment) and the other that brings up all the system.  Later when finished to map you can save the environment.
 
 
-<div align="center">
-<video width="640" height="480" controls loop>
-<source src="doc/vids/bringup.mp4" type="video/mp4">
-</video>
-</div>
+<p align="center">
+  <a href="https://youtu.be/WzJm4USBGoU">
+    <img src="https://img.youtube.com/vi/WzJm4USBGoU/0.jpg" alt="Robot Simulation">
+  </a>
+</p>
 
 
 </details>
