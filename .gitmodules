@@ -1,0 +1,20 @@
+[submodule "slam_gmapping"]
+	path = slam_gmapping
+	url = https://github.com/Project-MANAS/slam_gmapping.git
+	branch = eloquent-devel
+[submodule "slam-workshop-description"]
+	path = slam-workshop-description
+	url = https://github.com/issaiass/slam-workshop-description.git
+	branch = main
+[submodule "slam-workshop-gazebo"]
+	path = slam-workshop-gazebo
+	url = https://github.com/issaiass/slam-workshop-gazebo.git
+	branch = main
+[submodule "slam-workshop-mapping"]
+	path = slam-workshop-mapping
+	url = https://github.com/issaiass/slam-workshop-mapping.git
+	branch = main
+[submodule "slam-workshop-bringup"]
+	path = slam-workshop-bringup
+	url = https://github.com/issaiass/slam-workshop-bringup.git
+	branch = main
